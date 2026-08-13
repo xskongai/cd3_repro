@@ -21,6 +21,7 @@ Description: attribute_words
 GENDER_PAIRS = [
     ("man", "woman"),
     ("boy", "girl"),
+    ("he", "she"),        # ← 补回这一行
     ("father", "mother"),
     ("son", "daughter"),
     ("guy", "gal"),
